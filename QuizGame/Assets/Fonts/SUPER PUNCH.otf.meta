@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ad055e31d50d94a48a90700707169ad9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SUPER PUNCH
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 94a63ae7782a70e42a69229e9cd04568, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
