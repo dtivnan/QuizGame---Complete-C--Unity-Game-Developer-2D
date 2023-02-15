@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: What gun mod overflows the magazine based on the number of rapid kills
     before reloading?
+  answers:
+  - Rampage
+  - Ambitious Assassin
+  - Overflow
+  - Stats For All
+  correctAnswerIndex: 1
